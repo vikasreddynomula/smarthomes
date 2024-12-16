@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  <DATA_RECORD>
+    <id>1</id>
+    <accessories>micro SD Card, chime</accessories>
+    <category>Smart Doorbells</category>
+    <description>High quality smart doorbell</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>wipro</manufacturerName>
+    <manufacturerRebate>2</manufacturerRebate>
+    <name>Wipro's Door Bell</name>
+    <price>110</price>
+    <retailerDiscount>3</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>2</id>
+    <accessories>chime, micro SD card</accessories>
+    <category>Smart Doorbells</category>
+    <description>High quality smart door bell</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Qubo</manufacturerName>
+    <manufacturerRebate>4</manufacturerRebate>
+    <name>Qubo smart doorbell</name>
+    <price>150</price>
+    <retailerDiscount>6</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>3</id>
+    <accessories>chime</accessories>
+    <category>Smart Doorbells</category>
+    <description>High quality smart doorbell</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>TP-Link</manufacturerName>
+    <manufacturerRebate>4</manufacturerRebate>
+    <name>TP-Link Smart Doorbell</name>
+    <price>170</price>
+    <retailerDiscount>8.466</retailerDiscount>
+    <quantity>36</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>4</id>
+    <accessories>micro SD card</accessories>
+    <category>Smart Doorbells</category>
+    <description>High Quality Smart Doorbell</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Eufy</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Eufy Security Door Bell </name>
+    <price>140</price>
+    <retailerDiscount>0</retailerDiscount>
+    <quantity>39</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>5</id>
+    <accessories></accessories>
+    <category>Smart Doorlocks</category>
+    <description>High quality smart lock</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Yale</manufacturerName>
+    <manufacturerRebate>2</manufacturerRebate>
+    <name>Yale assure smart lock</name>
+    <price>176</price>
+    <retailerDiscount>1.76</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6</id>
+    <accessories></accessories>
+    <category>Smart Doorbells</category>
+    <description>Premium doorbell</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Ring</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Ring Video Doorbell</name>
+    <price>199</price>
+    <retailerDiscount>0</retailerDiscount>
+    <quantity>39</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>7</id>
+    <accessories></accessories>
+    <category>Smart Doorlocks</category>
+    <description>premium smart lock</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Wyze</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Wyze Smart Lock</name>
+    <price>140</price>
+    <retailerDiscount>0</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8</id>
+    <accessories></accessories>
+    <category>Smart Doorlocks</category>
+    <description>High quality smart lock</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>SwitchBot</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>SwitchBot Smart Lock</name>
+    <price>170</price>
+    <retailerDiscount>0</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9</id>
+    <accessories></accessories>
+    <category>Smart Doorlocks</category>
+    <description>High quality smart lock</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Kwikset</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Kwikset Halo Touch Lock</name>
+    <price>190</price>
+    <retailerDiscount>0</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>10</id>
+    <accessories></accessories>
+    <category>Smart Doorlocks</category>
+    <description>high quality smart lock</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Hornbill</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Hornbill smart lock</name>
+    <price>170</price>
+    <retailerDiscount>0</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>11</id>
+    <accessories></accessories>
+    <category>Smart Speakers</category>
+    <description>High quality sound </description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Bose</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Bose Smart Speaker</name>
+    <price>280</price>
+    <retailerDiscount>0</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>12</id>
+    <accessories></accessories>
+    <category>Smart Speakers</category>
+    <description>High quality sound speaker</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Amazon</manufacturerName>
+    <manufacturerRebate>3</manufacturerRebate>
+    <name>Amazon echo studio</name>
+    <price>320</price>
+    <retailerDiscount>32</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>13</id>
+    <accessories></accessories>
+    <category>Smart Speakers</category>
+    <description>Premium quality speaker</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Apple</manufacturerName>
+    <manufacturerRebate>5</manufacturerRebate>
+    <name>Apple HomePod 2nd gen</name>
+    <price>340</price>
+    <retailerDiscount>17</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>14</id>
+    <accessories>Mount</accessories>
+    <category>Smart Speakers</category>
+    <description>Designed for kids</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Amazon</manufacturerName>
+    <manufacturerRebate>2</manufacturerRebate>
+    <name>Amazon Echo 5th gen</name>
+    <price>280</price>
+    <retailerDiscount>5.6</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>15</id>
+    <accessories>Mount</accessories>
+    <category>Smart Speakers</category>
+    <description>Next generation AI with our speaker</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Amazon</manufacturerName>
+    <manufacturerRebate>2</manufacturerRebate>
+    <name>Amazon Echo 4th gen</name>
+    <price>320</price>
+    <retailerDiscount>12.8</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>16</id>
+    <accessories></accessories>
+    <category>Smart Lightings</category>
+    <description>High quality smart lock</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>DALS</manufacturerName>
+    <manufacturerRebate>1</manufacturerRebate>
+    <name>DALS Smart light</name>
+    <price>150</price>
+    <retailerDiscount>4.5</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>17</id>
+    <accessories></accessories>
+    <category>Smart Lightings</category>
+    <description>High quality smart lights</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Iotty</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Iotty Smart Light</name>
+    <price>190</price>
+    <retailerDiscount>7.6</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>18</id>
+    <accessories></accessories>
+    <category>Smart Lightings</category>
+    <description>High quality Light</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Lumens</manufacturerName>
+    <manufacturerRebate>1</manufacturerRebate>
+    <name>Lumens Smart Light</name>
+    <price>140</price>
+    <retailerDiscount>4.2</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>19</id>
+    <accessories></accessories>
+    <category>Smart Lightings</category>
+    <description>High quality smart lights</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Wayfair</manufacturerName>
+    <manufacturerRebate>1</manufacturerRebate>
+    <name>Wayfair smart lights</name>
+    <price>160</price>
+    <retailerDiscount>6.4</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>20</id>
+    <accessories></accessories>
+    <category>Smart Lightings</category>
+    <description>Premium lighting</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Lanbon</manufacturerName>
+    <manufacturerRebate>1</manufacturerRebate>
+    <name>Lanbon color switch</name>
+    <price>180</price>
+    <retailerDiscount>10.8</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>21</id>
+    <accessories></accessories>
+    <category>Smart Thermostats</category>
+    <description>Best thermostat</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Ecobee</manufacturerName>
+    <manufacturerRebate>2</manufacturerRebate>
+    <name>Ecobee Smart Thermostat</name>
+    <price>260</price>
+    <retailerDiscount>10.4</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>22</id>
+    <accessories></accessories>
+    <category>Smart Thermostats</category>
+    <description>Top tech designed thermostat</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Google</manufacturerName>
+    <manufacturerRebate>2</manufacturerRebate>
+    <name>Google nest</name>
+    <price>290</price>
+    <retailerDiscount>3</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>23</id>
+    <accessories></accessories>
+    <category>Smart Thermostats</category>
+    <description>Good quality thermostat</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Honeywell</manufacturerName>
+    <manufacturerRebate>2</manufacturerRebate>
+    <name>Honeywell </name>
+    <price>270</price>
+    <retailerDiscount>1</retailerDiscount>
+    <quantity>39</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>24</id>
+    <accessories></accessories>
+    <category>Smart Thermostats</category>
+    <description>Crafted to its perfection</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Rheem</manufacturerName>
+    <manufacturerRebate>1</manufacturerRebate>
+    <name>Rheem EcoNet 800 </name>
+    <price>275</price>
+    <retailerDiscount>8.25</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>25</id>
+    <accessories></accessories>
+    <category>Smart Thermostats</category>
+    <description>good quality product</description>
+    <fileFormat>.jpg</fileFormat>
+    <manufacturerName>Sensi</manufacturerName>
+    <manufacturerRebate>0</manufacturerRebate>
+    <name>Sensi Smart Thermostat </name>
+    <price>320</price>
+    <retailerDiscount>9.6</retailerDiscount>
+    <quantity>40</quantity>
+  </DATA_RECORD>
+</Products>

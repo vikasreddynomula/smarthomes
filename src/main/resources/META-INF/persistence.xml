@@ -1,0 +1,44 @@
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd"
+             version="3.0">
+             
+             <persistence-unit name="UserPU">
+				 
+
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+        <class>com.example.User</class>
+        <class>com.example.Cart</class>
+        <class>com.example.Product</class>
+        <class>com.example.OrderItems</class>
+        <class>com.example.TransactionDetails</class>
+        <class>com.example.Order</class>
+        <class>com.example.Store</class>
+        <class>com.example.UserLikedProducts</class>
+        
+
+        <properties>
+
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/Enterprisewebapplication"/>
+            <property name="jakarta.persistence.sharedCache.mode" value="ENABLE_SELECTIVE"/>
+            
+
+            <property name="jakarta.persistence.jdbc.user" value="root"/>
+            
+
+            <property name="jakarta.persistence.jdbc.password" value="Legendary"/>
+
+
+            <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+            <property name="hibernate.connection.provider_disables_autocommit" value="true"/>
+			<property name="jakarta.persistence.lock.timeout" value="5000"/> <!-- If needed -->
+
+            <property name="hibernate.show_sql" value="true"/>
+        </properties>
+    </persistence-unit>
+</persistence >
