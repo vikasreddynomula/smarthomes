@@ -1,0 +1,67 @@
+.product-reviews-section {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Review card styling */
+  .review-card {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-top: 10px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for review card elements */
+  .review-card p {
+    margin: 5px 0;
+    color: #333;
+    font-size: 14px;
+  }
+  
+  /* Bold text for labels */
+  .review-card p strong {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Margin adjustment for the rating */
+  .review-card p:first-child {
+    margin-top: 0;
+  }
+  
+  /* Spacing between individual reviews */
+  .product-reviews-section h3 {
+    margin-bottom: 15px;
+    color: #333;
+    text-align: left;
+  }
+  
+  /* Empty review text */
+  .no-reviews {
+    font-size: 16px;
+    color: #777;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Separator line between reviews */
+  .review-card:not(:last-child) {
+    margin-bottom: 15px;
+  }
+  
+  /* Add hover effect for review cards */
+  .review-card:hover {
+    background-color: #f4f4f4;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Adjust box-sizing for all elements */
+  * {
+    box-sizing: border-box;
+  }

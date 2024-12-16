@@ -1,0 +1,131 @@
+.order-page {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+}
+
+.page-title {
+    text-align: center;
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.loader {
+    text-align: center;
+    font-size: 24px;
+    color: #007bff;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+}
+
+.no-orders {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+}
+
+.order-card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 25px;
+    padding: 20px;
+}
+
+.order-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.order-header h2 {
+    color: #007bff;
+    margin: 0;
+    font-size: 22px;
+}
+
+.order-details-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.order-page-cart-items, .order-info {
+    flex: none;
+    width: 100%;
+}
+
+.order-cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.order-cart-item img {
+    max-width: 100px;
+    margin-right: 20px;
+}
+
+.order-info p {
+    color: #555;
+}
+
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+.order-cart-item img {
+    max-width: 250px;
+    margin-right: 20px;
+}
+
+.cart-details {
+    flex: 1;
+    margin-left: 250px;
+}
+
+.cart-details p {
+    margin: 15px 0;
+}
+
+.cart-details strong {
+    color: #007bff;
+}
+
+.order-info p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.cancel-order-button {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    bottom: 10px;
+    left: 100px;
+    margin-top: 30px;
+}
+.order-item-description {
+    margin: 10px 0; 
+    margin-left: 50px;
+    font-size: 20px;
+    color: black;
+    width: 40%;
+}
+
+.cancel-order-button:disabled {
+    background-color: grey;
+    cursor: not-allowed;
+}

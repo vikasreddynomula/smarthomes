@@ -1,0 +1,105 @@
+.orderM-body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+}
+
+.orderM-order-management {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.orderM-h1 {
+    text-align: center;
+    color: #333;
+}
+
+.orderM-order-card {
+    background-color: lightgray;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.orderM-order-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.orderM-order-details {
+    margin-bottom: 15px;
+}
+
+.orderM-h3 {
+    margin-top: 15px;
+    color: #333;
+}
+
+.orderM-h2 {
+    width: 60%;
+    color: #333;
+}
+
+.orderM-cart-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.orderM-cart-item {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    width: calc(50% - 20px);
+}
+
+.orderM-cart-item img {
+    max-width: 200px;
+    max-height: 200px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.orderM-cart-item-details p {
+    margin: 5px 0;
+}
+
+.orderM-order-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+}
+
+.orderM-status-update {
+    display: flex;
+    align-items: center;
+}
+
+.orderM-status-update select {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.orderM-cancel-order-btn {
+    padding: 8px 12px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.orderM-cancel-order-btn:hover {
+    background-color: darkred;
+}

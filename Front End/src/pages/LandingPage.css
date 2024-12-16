@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 2rem;
+  }
+  .landing-img {
+    width: 50%;
+    margin-right: auto;
+    float: left;
+  }
+  
+  .login {
+    border: 1px solid purple;
+    text-align: center;
+    padding: 2rem;
+  }
+  .landing-page h2 {
+    width: 20rem;
+    text-align: center;
+    color: purple;
+  }
+  .btn {
+    border: 1px solid purple;
+    color: #000;
+    background-color: purple;
+    
+  }
+  .mainContainer {
+    margin: 0.5rem;
+  }
+  .mainArea {
+    justify-content: center;
+    margin: auto;
+  }
+  .btn:hover {
+    color: #fff;
+  
+    border: 1px solid #fff;
+    background-color: purple;
+  }
+  
+  :-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: purple;
+  }
+  
+  ::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: purple;
+  }
+  .field {
+    width: 100%;
+    color: 7267CB;
+  }
+  .field:hover {
+    background-color: #eaeaea;
+  }
+  .brand {
+    color: #cba167;
+    font-size: 3.5rem;
+    margin-right: 3rem;
+  }
+  
